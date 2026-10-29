@@ -1,0 +1,8 @@
+Game illustrations: generated with built-in imagegen from user-provided character references.
+Investigation music: "Darkest Child" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100783
+Changes: playback volume and looping; original audio file unchanged.
+Finale audio: user-provided recording, used at the user's request.
+UI sound effects: synthesized in-game.
